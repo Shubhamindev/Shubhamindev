@@ -10,7 +10,7 @@
 - :seedling: Exploring the world to get new ideas for converting into projects.
 
 - :zap: In my free time, I solve problems on leetcode and contribute in open source project.
-- 
+
 ## 🌐 Connect With me:
 <p align="left">
 <a href="https://linkedin.com/in/shubham-kumar-2bb56622a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-kumar-2bb56622a" height="30" width="40" /></a>
