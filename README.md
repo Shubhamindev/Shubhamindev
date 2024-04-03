@@ -29,8 +29,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shubhamindev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamindev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhamindev&show_icons=true&locale=en" alt="shubhamindev" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamindev&" alt="shubhamindev" /></p>
 
 
 ### ✍️ Random Dev Quote
